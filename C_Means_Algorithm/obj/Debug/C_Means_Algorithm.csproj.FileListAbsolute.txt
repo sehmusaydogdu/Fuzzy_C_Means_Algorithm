@@ -1,0 +1,10 @@
+C:\Users\acer\Desktop\Fuzzy-C-Means\C_Means_Algorithm\bin\Debug\C_Means_Algorithm.exe.config
+C:\Users\acer\Desktop\Fuzzy-C-Means\C_Means_Algorithm\bin\Debug\C_Means_Algorithm.exe
+C:\Users\acer\Desktop\Fuzzy-C-Means\C_Means_Algorithm\bin\Debug\C_Means_Algorithm.pdb
+C:\Users\acer\Desktop\Fuzzy-C-Means\C_Means_Algorithm\obj\Debug\C_Means_Algorithm.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Fuzzy-C-Means\C_Means_Algorithm\obj\Debug\C_Means_Algorithm.Form1.resources
+C:\Users\acer\Desktop\Fuzzy-C-Means\C_Means_Algorithm\obj\Debug\C_Means_Algorithm.Properties.Resources.resources
+C:\Users\acer\Desktop\Fuzzy-C-Means\C_Means_Algorithm\obj\Debug\C_Means_Algorithm.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Fuzzy-C-Means\C_Means_Algorithm\obj\Debug\C_Means_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Fuzzy-C-Means\C_Means_Algorithm\obj\Debug\C_Means_Algorithm.exe
+C:\Users\acer\Desktop\Fuzzy-C-Means\C_Means_Algorithm\obj\Debug\C_Means_Algorithm.pdb
